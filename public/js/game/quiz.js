@@ -199,8 +199,7 @@ function GameWorld(){
 			
 			var types = ['official','unofficial'];
 			var names = {
-				'official' : 'Official Participants',
-				'unofficial' : 'Audience Participants'
+				'official' : 'Leaderboard Peserta'
 			};
 			
 			for(var t in types){
