@@ -197,7 +197,7 @@ function GameWorld(){
 			var html = "";
 			html += "<div>";
 			
-			var types = ['official','unofficial'];
+			var types = ['official'];
 			var names = {
 				'official' : 'Leaderboard Peserta'
 			};
