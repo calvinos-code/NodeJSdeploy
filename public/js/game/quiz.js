@@ -212,7 +212,7 @@ function GameWorld(){
 				
 				html += "<thead>";
 				html += "<tr>";
-				html += "<th style='width:50px' >" + "Rank" + "</th>" + "<th>" + "Team" + "</th>" + "<th>" + "Score" + "</th>";
+				html += "<th style='width:50px' >" + "Rank" + "</th>" + "<th>" + "Name" + "</th>" + "<th>" + "Score" + "</th>";
 				html += "</tr>";
 				html += "</thead>";
 				
